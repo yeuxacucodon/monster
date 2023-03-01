@@ -73,7 +73,7 @@ window.onload = function () {
   }
 
   class tentacle {
-    constructor(x, y, l, n, a) {
+    constructor(x, y, l, n) {
       this.x = x;
       this.y = y;
       this.l = l;
